@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Effect Feasibility"
+  short_description: "Check MME implementation feasibility"
+  default_prompt: "Use $mme-effect-feasibility to decide whether an MME effect should be standalone or framework-based."

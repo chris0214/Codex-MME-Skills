@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Authoring"
+  short_description: "Author MMD MME fx and fxsub files"
+  default_prompt: "Use $mme-authoring to write an MMD/MME effect file from an approved implementation plan."

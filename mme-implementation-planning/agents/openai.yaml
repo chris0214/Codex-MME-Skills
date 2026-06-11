@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Implementation Planning"
+  short_description: "Plan MME files, passes, and resources"
+  default_prompt: "Use $mme-implementation-planning to design the render targets, passes, and file layout for an MME effect."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Static Review"
+  short_description: "Review MME shaders before runtime testing"
+  default_prompt: "Use $mme-static-review to inspect MME fx/fxsub files for syntax, pass, resource, and compatibility issues."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MMD MME Workflow"
+  short_description: "Orchestrate MMD MME effect authoring"
+  default_prompt: "Use $mmd-mme-workflow to plan and coordinate an MMD/MME effect authoring workflow."

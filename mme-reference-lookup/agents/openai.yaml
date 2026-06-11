@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Reference Lookup"
+  short_description: "Find local MME syntax and parameter references"
+  default_prompt: "Use $mme-reference-lookup to look up MME semantics, annotations, and shader reference details."

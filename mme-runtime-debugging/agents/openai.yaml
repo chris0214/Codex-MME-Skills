@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Runtime Debugging"
+  short_description: "Debug MME runtime and visual failures"
+  default_prompt: "Use $mme-runtime-debugging to diagnose black screens, compile errors, missing maps, and MMD/MME draw-order problems."

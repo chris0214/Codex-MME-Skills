@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Effect Assessment"
+  short_description: "Assess requested MME visual effects"
+  default_prompt: "Use $mme-effect-assessment to translate an MME visual request into concrete rendering goals."

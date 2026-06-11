@@ -1,0 +1,4 @@
+interface:
+  display_name: "MME Example Mining"
+  short_description: "Mine local MME examples for patterns"
+  default_prompt: "Use $mme-example-mining to find and compare local MME effect examples before writing code."
